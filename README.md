@@ -1,4 +1,4 @@
-# Dominator algorithms
+# Dominator algorithms (for learning purposes)
 
 Include the following commonly used dominator algorithms:
 
@@ -8,13 +8,7 @@ Include the following commonly used dominator algorithms:
 4. Tarjan algorithm (both simple and sophisticated versions)
 5. **TODO** Semi-NCA algorithm
 
-**Warning**: Just for learning, not intended as a library. I won't maintain it.
-
-I also wrote a blog about dominator (in Chinese): [Dominator 讲解及其相关性质的证明](https://osfva.com/20231101115121-dominator_%E8%AE%B2%E8%A7%A3%E5%8F%8A%E5%85%B6%E7%9B%B8%E5%85%B3%E6%80%A7%E8%B4%A8%E7%9A%84%E8%AF%81%E6%98%8E/)
-
 # References
-
-**TODO**: Give the details of each reference.
 
 - [Building an optimizing compiler 1st](https://www.amazon.sg/Building-Optimizing-Compiler-Bob-Morgan/dp/155558179X)
 - [Compilers: Principles, Techniques, and Tools 2nd](https://dl.acm.org/doi/10.5555/1177220)
